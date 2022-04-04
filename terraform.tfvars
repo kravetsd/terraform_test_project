@@ -1,0 +1,8 @@
+key_pair_name = ""
+tls_key_filename = ""
+Your_First_Name = ""
+Your_Last_Name = ""
+region = ""
+instance_type = ""
+access_key = ""
+secret_key = ""
